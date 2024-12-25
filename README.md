@@ -3,4 +3,4 @@
 
 <p>Just like its name, Every thing is at face value, no hidden or alteraltive motives of any kind :)</p>
 
-<p>Website:<p> <a href="https://thechaoticking.github.io/Boxium/">Boxium</a>
+<p>Website:<p> <a href="https://thechaoticking.github.io/Boxium/" target="_blank">Boxium</a>
